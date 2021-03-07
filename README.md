@@ -1,4 +1,4 @@
-# Predict_customer_churn_sequential_neural_network
+# Predict_customer_churn_multilayer_perceptron
 
 ## Introduction
 This is a source code for my Medium blog post on Predict Customer Churn with Neural Network.
