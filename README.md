@@ -1,7 +1,7 @@
 # Predict_customer_churn_with_multilayer_perceptron
 
 ## Introduction
-This is a source code for my Medium blog post on Predict Customer Churn with Neural Network.
+This is a source code for my [Medium](https://aigerimshopenova.medium.com/) blog post on [Predict Customer Churn with Neural Network](https://towardsdatascience.com/predict-customer-churn-with-neural-network-1ef8f1a1c6ab).
 
 ### Motivation
 As a data scientist, I quite often start solving a business problem with a simple and an easy to implement algorithm such as linear and logistic regressions.
